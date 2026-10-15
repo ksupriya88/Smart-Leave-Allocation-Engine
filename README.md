@@ -1,6 +1,6 @@
 # Smart Leave Allocation Engine
 
-## Overview
+## Overview 
 
 A Workforce Management and Business Analytics solution designed to improve leave planning through capacity-based decision making, fairness ranking, and transparent communication.
 
